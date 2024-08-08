@@ -1,0 +1,14 @@
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ImportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ImportApp.AssemblyInfoInputs.cache
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ImportApp.AssemblyInfo.cs
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ImportApp.csproj.CoreCompileInputs.cache
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\bin\Debug\net8.0\ImportApp.exe
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\bin\Debug\net8.0\ImportApp.deps.json
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\bin\Debug\net8.0\ImportApp.runtimeconfig.json
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\bin\Debug\net8.0\ImportApp.dll
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\bin\Debug\net8.0\ImportApp.pdb
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ImportApp.dll
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\refint\ImportApp.dll
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ImportApp.pdb
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ImportApp.genruntimeconfig.cache
+C:\Users\feron\Desktop\C#\ImportApp\ImportApp\obj\Debug\net8.0\ref\ImportApp.dll
